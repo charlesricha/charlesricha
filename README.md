@@ -1,6 +1,11 @@
 # Hi there 👋, I'm Charles  
 💻 A Mathematics & Computer Studies enthusiast | 🌱 Learning AI, Web Dev, and IoT | 🚀 Building cool projects  
-
+###
+## My portfolio
+  
+## My Blog
+  https://charlesdev-orpin.vercel.app/
+  ###
 ## About Me
 - 🎓 B.Ed in Mathematics & Computer Studies  
 - 🔭 Currently working on: Brain Burst (AI-powered learning platform)  
