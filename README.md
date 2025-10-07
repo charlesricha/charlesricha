@@ -9,7 +9,7 @@
 
 ## My Blog
 
-<a href=" https://charlesdev-orpin.vercel.app/" target="_blank">🌐 View My Blog</a>
+  <a href="https://charlesdev-orpin.vercel.app/" target="_blank">🌐 View My Blog</a>
 
  
   ###
@@ -32,6 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
 </p>
+## 🚀 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp&perline=7" />
+  </a>
+</p>
+
 
 ## GitHub Stats
 ![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesricha&show_icons=true&theme=radical)
