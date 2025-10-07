@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Charles  
 - 💻 A Mathematics & Computer Studies tutor
-- 🌱 Learning AI, Web Dev, and IoT 
+- 🌱 Learning AI and ML, Smart houses Electrical Config, 3D using blender 
 - 💻 Student at University of Embu
 - 🚀 Building cool projects  
 ###
@@ -9,7 +9,7 @@
 
 ## My Blog
 
-  <a href="https://charlesdev-orpin.vercel.app/" target="_blank">🌐 View My Blog</a>
+  <a href="https://charlesdev-orpin.vercel.app/" target="_blank">🔭View My Blog</a>
 
  
   ###
@@ -22,19 +22,13 @@
 
 
 ## 🚀 Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp&perline=7" />
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp,tailwind&perline=7" />
   </a>
 </p>
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp&perline=7" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="65" height="65" style="margin: 10px;"/>
 </p>
 
 
