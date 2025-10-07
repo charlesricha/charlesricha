@@ -13,6 +13,7 @@
 
  
   ###
+  
 ## About Me
 - 🎓 B.Ed in Mathematics & Computer Studies  
 - 🔭 Currently working on: Brain Burst (AI-powered learning platform)  
@@ -21,24 +22,21 @@
 
 
 ## 🚀 Tech Stack
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp&perline=7" />
+  </a>
 </p>
+
 ## 🚀 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp&perline=7" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="65" height="65" style="margin: 10px;"/>
 </p>
+
 
 
 ## GitHub Stats
