@@ -1,41 +1,64 @@
-# Hi there 👋, I'm Charles  
-- 💻 A Mathematics & Computer Studies tutor
-- 🌱 Learning AI and ML, Smart houses Electrical Config, 3D using blender 
-- 💻 Student at University of Embu
-- 🚀 Building cool projects  
-###
-## My portfolio
-  <a href="https://muthuicharlesdev.vercel.app/" target="_blank">🌐 View My Portfolio</a>
+<div align="center">
 
-## My Blog
+<img src="https://i.imgur.com/example-of-flat-illustration-url.png" alt="A flat illustration of a fullstack developer working on a laptop surrounded by IoT devices, servers, and code." width="600"/>
 
-  <a href="https://charlesdev-orpin.vercel.app/" target="_blank">🔭View My Blog</a>
+<br>
 
- 
-  ###
-  
-## About Me
-- 🎓 B.Ed in Mathematics & Computer Studies  
-- 🔭 Currently working on: Brain Burst (AI-powered learning platform)  
-- 🌱 Learning: Next.js, Firebase, AI in Education  
-- ⚡ Fun fact: I mix gaming, robotics, and teaching into one creative space!
+# 👋 Hello World! I'm **Charles** (The Everywhere Maker)
+</div>
 
+---
 
-## 🚀 Tech Stack
+### 💡 The Current Mission: **Building Intelligence**
 
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,vscode,git,react,nextjs,threejs,nodejs,python,django,firebase,supabase,mysql,cpp,tailwind&perline=7" />
-  </a>
-</p>
+I'm currently diving deep into the **Android Development Kit (ADK)** to craft seamless mobile experiences, and simultaneously architecting my own localized smart assistant, **"My Siri,"** using the **ESP32**. The future of responsive, personalized tech starts here!
 
-</p>
+> "I am everywhere... and I'm watching 👀."
 
+---
 
+### 🛠️ My Stack & Expertise
 
-## GitHub Stats
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesricha&show_icons=true&theme=radical)
+| Category | Skills & Focus Areas |
+| :--- | :--- |
+| **Fullstack Development** | 🌐 Web Architecture, API Design, Database Management |
+| **IoT & Embedded Systems** | 🔌 **ESP32**, **ADK**, Microcontrollers, Sensor Integration, Prototyping |
+| **Academic Foundation** | 💻 **Math & Computer Science** (BEd, UoEmbu), **PLP Alumni** (Full-Stack/IoT) |
+| **Leadership** | 🤖 **GDG University of Embu Robotics and IoT Lead** |
 
+---
 
+### 📈 My Dynamic Digital Footprint
 
-![Visitor Count](https://komarev.com/ghpvc/?username=charlesricha&color=blue)
+These stats showcase my commitment and reach:
+
+<div align="center">
+
+| Metric | Badge | Description |
+| :--- | :--- | :--- |
+| **GitHub Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true) | My daily coding commitment. |
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet) | Tracking global visits to my profile. |
+| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=YOUR_GITHUB_USERNAME&layout=compact&theme=highcontrast) | The languages I build with most often. |
+</div>
+
+---
+
+### 🏆 Achievements & Milestones
+
+* **Build Kuza Kenya Platform** - helps kenyans report their issues so that they can be handled by the government
+* **Completed the intensive AI and ML PLP program**
+* **GDG UoEmbu** Robotics and IoT Lead.
+* *And many more projects loading...*
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always **open for collaboration** on interesting **Fullstack** and **IoT** projects.
+
+* **Follow me** and I'll **follow you back**! Let's grow our networks.
+* **Reach out** via 
+  charlesmuthui206@gmail.com
+  <a href="www.linkedin.com/in/muthui-charles/">LinkedIn</a>
+
+</div>
