@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/example-of-flat-illustration-url.png" alt="A flat illustration of a fullstack developer working on a laptop surrounded by IoT devices, servers, and code." width="600"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGc5ZTRkdWkzaWhvbTN0cDZyaWg3YnU3YTQwZm9ydm11YTdkYWx6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nbxIYIp23j5fVwaD05/giphy.webp" width="600"/>
 
 <br>
 
