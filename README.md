@@ -36,18 +36,18 @@ These stats showcase my commitment and reach:
 
 | Metric | Badge | Description |
 | :--- | :--- | :--- |
-| **GitHub Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true) | My daily coding commitment. |
-| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet) | Tracking global visits to my profile. |
-| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=YOUR_GITHUB_USERNAME&layout=compact&theme=highcontrast) | The languages I build with most often. |
+| **GitHub Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlesricha&theme=highcontrast&hide_border=true) | My daily coding commitment. |
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=charlesricha&color=blueviolet) | Tracking global visits to my profile. |
+| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=charlesricha&layout=compact&theme=highcontrast) | The languages I build with most often. |
 </div>
 
 ---
 
 ### 🏆 Achievements & Milestones
 
-* **Build Kuza Kenya Platform** - helps kenyans report their issues so that they can be handled by the government
+* **Built Kuza Kenya Platform** - helps kenyans report their issues so that they can be handled by the government
 * **Completed the intensive AI and ML PLP program**
-* **GDG UoEmbu** Robotics and IoT Lead.
+* **GDG UoEm** Robotics and IoT Lead.
 * *And many more projects loading...*
 
 ---
