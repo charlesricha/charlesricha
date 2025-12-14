@@ -4,7 +4,7 @@
 
 <br>
 
-# 👋 Hello World! I'm **Charles** (The Everywhere Maker)
+# 👋 Hello World! I'm **Charles** From Kenya
 </div>
 
 ---
@@ -13,7 +13,7 @@
 
 I'm currently diving deep into the **Android Development Kit (ADK)** to craft seamless mobile experiences, and simultaneously architecting my own localized smart assistant, **"My Siri,"** using the **ESP32**. The future of responsive, personalized tech starts here!
 
-> "I am everywhere... and I'm watching 👀."
+
 
 ---
 
